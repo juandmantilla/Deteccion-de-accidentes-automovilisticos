@@ -8,5 +8,9 @@ El proyecto consiste en la implementación de modelos pre entrenados, aplicando 
 En este repositorio puede encontrar el dataset usado, cabe aclarar que estos datos son recolectados de videos de youtube. Los datos de accidentes son generados por el software de simulación de choques BeamNg como también de videos reales de accidentes.
 
 Autor : Juan David Mantilla López
+
 Contacto : juandmantilla@outlook.com
+
+Enlace video : https://youtu.be/kZnoI2gNoP0
+
 
